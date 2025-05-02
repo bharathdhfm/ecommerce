@@ -1,0 +1,26 @@
+# Ignore XAMPP specific and temp files
+*.log
+*.tmp
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore PHP sessions or cache if generated
+cache/
+sessions/
+
+# Ignore IDE/editor config files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore Composer dependencies (if using)
+vendor/
+
+# Ignore database exports or backups
+*.sql
+*.sql.gz
+*.db
