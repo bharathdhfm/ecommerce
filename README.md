@@ -1,3 +1,7 @@
+Visit this url for project workflow
+http://shopify.infinityfreeapp.com/ 
+
+
 ECOMMERCE/
 │
 ├── admin/                # Admin panel files (add, edit, delete products & view orders)
@@ -136,6 +140,7 @@ When the admin updates an order status,
 ✔️ On Status Update by Admin – Email sent to customer
 
 SMTP settings can be updated in mailer/send_email.php.
+
 
 If you have any doubts contact me bharathkonduri5@gmail.com
 
