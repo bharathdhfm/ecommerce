@@ -18,7 +18,7 @@ function send_email($toEmail, $toName, $orderId, $productName, $price, $status) 
 
         // Replace with your Gmail and app password
         $mail->Username = 'kondurubharathkumarmca@gmail.com';
-        $mail->Password = 'eqgfrmwwalyapvvj'; // App Password (no spaces)
+        $mail->Password = 'your password'; // App Password (no spaces)
 
 
         $mail->SMTPSecure = 'tls';
